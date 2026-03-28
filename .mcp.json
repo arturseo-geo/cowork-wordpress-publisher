@@ -1,0 +1,22 @@
+{
+  "~~wordpress": {
+    "description": "WordPress REST API — posts, pages, media, categories, tags, SEO metadata, cache",
+    "exampleServers": ["wordpress-mcp"]
+  },
+  "~~filesystem": {
+    "description": "Local filesystem — read HTML files, images, and assets before upload",
+    "exampleServers": ["filesystem-mcp"]
+  },
+  "~~search_console": {
+    "description": "Google Search Console — verify post indexing after publish",
+    "exampleServers": ["gsc-mcp"]
+  },
+  "~~browser": {
+    "description": "Headless browser — screenshot verification of published post",
+    "exampleServers": ["puppeteer-mcp"]
+  },
+  "~~knowledge_base": {
+    "description": "Notion — post tracking, publishing log, content database",
+    "exampleServers": ["notion-mcp"]
+  }
+}

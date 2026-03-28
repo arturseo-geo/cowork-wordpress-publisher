@@ -1,0 +1,11 @@
+{
+  "name": "wordpress-publisher",
+  "version": "1.0.0",
+  "description": "Full WordPress publishing pipeline for Cowork. Deploy posts, optimise images, manage redirects, audit content compliance, and check site health — all from natural language. No dashboard required.",
+  "author": {
+    "name": "Artur Ferreira",
+    "url": "https://thegeolab.net"
+  },
+  "homepage": "https://github.com/arturseo-geo/wordpress-publisher-plugin",
+  "license": "MIT"
+}
