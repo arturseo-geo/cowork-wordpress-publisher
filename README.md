@@ -100,4 +100,4 @@ Everything in this plugin is derived from real daily use, not theory.
 
 ---
 
-MIT License · [thegeolab.net](https://thegeolab.net) · [@TheGEO_Lab](https://x.com/TheGEO_Lab)
+Part of [The GEO Lab](https://thegeolab.net) open-source toolkit · [@TheGEO_Lab](https://x.com/TheGEO_Lab)
